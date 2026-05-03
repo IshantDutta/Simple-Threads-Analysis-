@@ -18,7 +18,7 @@ The goal is to extract meaningful insights and provide data-driven recommendatio
 - Microsoft Excel  
 - Data Cleaning & Transformation Techniques  
 - Data Visualization (Charts, Graphs)  
-(Add Python here only if you actually used it)
+
 
 ---
 
@@ -36,17 +36,6 @@ The goal is to extract meaningful insights and provide data-driven recommendatio
 - Focus marketing on female customer segment  
 - Expand campaigns in high-performing cities  
 - Optimize discount strategies for better ROI  
-
----
-
-## 📈 Sample Visualizations
-Category Heatmap  
-Discount vs Spending
-
----
-
-## 📄 Project Report
-👉 View Full Report
 
 ---
 
